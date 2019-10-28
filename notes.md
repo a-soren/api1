@@ -1,0 +1,9 @@
+-create repo on GH
+-clone it
+-open in IDE
+-add '.gitignore' ==> 'npx gitignore node'
+-add 'package.json'==> 'npm init -y'
+-add server script inside package.json
+-install 'nodemon' as a dev depen. ==> 'npm i -D nodemon'
+-add an index.js file to root folder
+-run the API using 'npm run server'
